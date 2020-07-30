@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Professional with experience in java web development.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-duarte-459997156/)](https://www.linkedin.com/in/wendel-duarte-459997156/)
+
+
+
 <!--
 **wkinho/wkinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
