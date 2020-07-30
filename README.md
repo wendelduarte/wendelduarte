@@ -2,8 +2,6 @@
 
 I'm a Professional with experience in java web development.
 
-Would you like to find me?
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-duarte-459997156/)](https://www.linkedin.com/in/wendel-duarte-459997156/)
 
 
